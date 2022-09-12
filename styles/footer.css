@@ -1,0 +1,11 @@
+.footer-section {
+	position: fixed;
+	height: 30px;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding-top: 15px;
+	background-color: rgb(0, 1, 70);
+	color: white;
+	text-align: center;
+}
